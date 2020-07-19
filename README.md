@@ -1,7 +1,7 @@
 # Kaggle
 Python files with some Kaggle challenges
 
-I used mainly Fastai libraries for the predictive models
+I used Fastai libraries for the predictive models mainly
 
 FraudDetection: Classification problem to identify fraudolent/not fraudolent transaction according to some specific features
 
