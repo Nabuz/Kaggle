@@ -1,6 +1,6 @@
 -------------HOW TO ADD A NEW FILE (GOOGLE DRIVE ONLY!!!):-----------------------------------------
 
-In google drive path (TVML/lez4) add a file Fraud_Detection_Name_Surname.ipynb
+In google drive path (TVML/lez4) added a file Fraud_Detection_Name_Surname.ipynb
 
 
 
